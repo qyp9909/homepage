@@ -112,7 +112,7 @@ h1:before, .anchor:before {
 /* main.css */
 /* ========== 🌙 Dark Mode 全局设置 ========== */
 body.dark-mode {
-  background-color: #1E1E1E !important;
+  background-color: #474747 !important;
   color: #e0e0e0 !important;
 }
 
@@ -126,7 +126,7 @@ body.dark-mode a:hover {
 
 /* 顶部导航栏（nav#site-nav） */
 body.dark-mode #site-nav {
-  background-color: #1E1E1E !important;
+  background-color: #474747 !important;
 }
 body.dark-mode #site-nav a {
   color: #cccccc !important;
@@ -137,7 +137,7 @@ body.dark-mode #site-nav a:hover {
 
 /* 顶部 masthead 区域 */
 body.dark-mode .masthead {
-  background-color: #1E1E1E !important;
+  background-color: #474747 !important;
   border-bottom: 1px solid #333 !important;
 }
 body.dark-mode .masthead a,
@@ -150,7 +150,7 @@ body.dark-mode .masthead .site-title {
 body.dark-mode .sidebar,
 body.dark-mode .author__content,
 body.dark-mode .author__urls-wrapper {
-  background-color: #1E1E1E !important;
+  background-color: #474747 !important;
   color: #ccc !important;
 }
 body.dark-mode .sidebar a {
@@ -168,7 +168,7 @@ body.dark-mode .card,
 body.dark-mode .archive__item,
 body.dark-mode .cv,
 body.dark-mode .cv__item {
-  background-color: #1E1E1E !important;
+  background-color: #474747 !important;
   color: #e0e0e0 !important;
   border-color: #444 !important;
 }
@@ -222,25 +222,24 @@ h3 {
   font-size: 20px;
 }
 
-/* 使导航横向左右排布 */
-.greedy-nav .visible-links {
-  display: flex !important;
+/* 最小侵入式左-右导航排列 */
+ul.visible-links {
+  display: flex;
   justify-content: space-between;
   align-items: center;
-  flex-wrap: wrap;
-  width: 100%;
   padding: 0 1rem;
-  box-sizing: border-box;
+  flex-wrap: wrap;
 }
 
-/* 把 Homepage 放左边 */
-.greedy-nav .visible-links .masthead__menu-home-item {
-  margin-right: auto !important;
+/* 第一个菜单项（Homepage）靠左，其余靠右 */
+ul.visible-links > li:first-child {
+  margin-right: auto;
 }
 
-/* 其他导航项放右边 */
-.greedy-nav .visible-links .masthead__menu-item {
+/* 其他菜单项 */
+ul.visible-links > li {
   margin-left: 1rem;
 }
+
 
 
