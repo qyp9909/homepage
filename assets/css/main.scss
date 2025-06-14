@@ -229,3 +229,14 @@ h3 {
 body.dark-mode .masthead {
   border-bottom: 2px solid #e0e0e0 !important; /* 粗亮白线 */
 }
+
+/* 设置菜单项之间的水平间距 */
+ul.visible-links > li {
+  margin-left: 1.2rem;
+}
+
+/* 如果不希望第一个菜单项（Homepage）有 margin-left，可以这样排除 */
+ul.visible-links > li:first-child {
+  margin-left: 0;
+}
+
