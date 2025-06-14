@@ -231,12 +231,11 @@ body.dark-mode .masthead {
 }
 
 /* 设置菜单项之间的水平间距 */
-ul.visible-links > li {
-  margin-left: 1.2rem;
+/* 控制导航项之间的水平空隙 */
+li.masthead__menu-item {
+  padding-left: 20px !important;
+  padding-right: 20px !important;
 }
 
-/* 如果不希望第一个菜单项（Homepage）有 margin-left，可以这样排除 */
-ul.visible-links > li:first-child {
-  margin-left: 0;
-}
+/* 如果你希望减少空隙，可以改为 10px，想拉大可用 30px 以上 */
 
