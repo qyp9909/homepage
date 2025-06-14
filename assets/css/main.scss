@@ -108,21 +108,58 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
-/* main.css */
+/* 顶部导航栏背景 */
+body.dark-mode .masthead {
+  background-color: #1f1f1f;
+  border-bottom: 1px solid #333;
+}
 
-body.dark-mode {
-  background-color: #121212;
+/* 页面主体内容 */
+body.dark-mode .page__content,
+body.dark-mode .page {
+  background-color: #181818;
   color: #e0e0e0;
 }
 
+/* 链接颜色 */
 body.dark-mode a {
-  color: #90caf9;
+  color: #80c7ff;
 }
 
-body.dark-mode .masthead, 
-body.dark-mode .page__content, 
-body.dark-mode .sidebar {
-  background-color: #1e1e1e;
+/* 链接 hover */
+body.dark-mode a:hover {
+  color: #aad3ff;
+}
+
+/* 左侧 sidebar */
+body.dark-mode .sidebar,
+body.dark-mode .author__content,
+body.dark-mode .author__urls-wrapper {
+  background-color: #1b1b1b;
   color: #ccc;
 }
+
+/* 图标颜色一致 */
+body.dark-mode .fa,
+body.dark-mode .fab,
+body.dark-mode .fas {
+  color: #ccc;
+}
+
+/* Publication 卡片 / 文章引用背景 */
+body.dark-mode .card,
+body.dark-mode .highlight,
+body.dark-mode .publication,
+body.dark-mode .news__item {
+  background-color: #2b2b2b;
+  border-color: #444;
+}
+
+/* 引用、blockquote */
+body.dark-mode blockquote {
+  background: #222;
+  border-left: 4px solid #555;
+  color: #bbb;
+}
+
 
