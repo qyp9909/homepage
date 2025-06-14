@@ -9,7 +9,7 @@
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
           <li>
-            <a href="#" class="dark-mode-toggle" title="Dark mode">
+            <a href="#" onclick="toggleDarkMode(); return false;" title="Dark mode">
               <i class="fas fa-moon"></i>
             </a>
           </li>
