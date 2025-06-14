@@ -222,20 +222,25 @@ h3 {
   font-size: 20px;
 }
 
-/* 导航容器设置为左右结构 */
-ul.visible-links {
-  display: flex;
+/* 使导航横向左右排布 */
+.greedy-nav .visible-links {
+  display: flex !important;
   justify-content: space-between;
   align-items: center;
+  flex-wrap: wrap;
+  width: 100%;
+  padding: 0 1rem;
+  box-sizing: border-box;
 }
 
-/* Homepage 在左 */
-.masthead__menu-home-item {
-  margin-right: auto;  /* 推到最左边 */
+/* 把 Homepage 放左边 */
+.greedy-nav .visible-links .masthead__menu-home-item {
+  margin-right: auto !important;
 }
 
-/* 其他项靠右（默认） */
-ul.visible-links .masthead__menu-item:not(.masthead__menu-home-item) {
+/* 其他导航项放右边 */
+.greedy-nav .visible-links .masthead__menu-item {
   margin-left: 1rem;
 }
+
 
