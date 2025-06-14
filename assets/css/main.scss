@@ -110,19 +110,15 @@ h1:before, .anchor:before {
 
 /* ========== 🌙 Dark Mode 全局设置 ========== */
 body.dark-mode .masthead {
-  background-color: #1E1E1E !important;
+  background-color: #1e1e1e !important;
 }
 
 body.dark-mode .page__content {
-  background-color: #181818 !important;
+  background-color: #1e1e1e !important;
   color: #e0e0e0 !important;
 }
 
-/* 链接颜色 */
 body.dark-mode a {
   color: #80c7ff !important;
 }
 
-body.dark-mode #site-nav a:hover {
-  color: #ffffff !important;
-}
