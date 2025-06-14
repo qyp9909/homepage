@@ -108,17 +108,22 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
-/* ========== 🌙 Dark Mode 全局设置 ========== */
-body.dark-mode .masthead {
-  background-color: #1e1e1e !important;
-}
 
-body.dark-mode .page__content {
-  background-color: #1e1e1e !important;
-  color: #e0e0e0 !important;
+/* main.css */
+
+body.dark-mode {
+  background-color: #1e1e1e;
+  color: #e0e0e0;
 }
 
 body.dark-mode a {
-  color: #80c7ff !important;
+  color: #90caf9;
+}
+
+body.dark-mode .masthead, 
+body.dark-mode .page__content, 
+body.dark-mode .sidebar {
+  background-color: #1e1e1e;
+  color: #ccc;
 }
 
