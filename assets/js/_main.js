@@ -94,22 +94,18 @@ $(document).ready(function(){
     closeOnContentClick: true,
     midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
   });
-  // Dark Mode toggle
-  function applyDarkModeFromStorage() {
-    if (localStorage.getItem("dark-mode") === "true") {
-      $("body").addClass("dark-mode");
-    }
-  }
-
+    // 🌙 深色模式逻辑
   function toggleDarkMode() {
     $("body").toggleClass("dark-mode");
     localStorage.setItem("dark-mode", $("body").hasClass("dark-mode"));
   }
 
-  applyDarkModeFromStorage();
+  if (localStorage.getItem("dark-mode") === "true") {
+    $("body").addClass("dark-mode");
+  }
 
-  // 监听按钮点击
-  $(".dark-mode-toggle").on("click", function () {
+  $(".dark-mode-toggle").on("click", function (e) {
+    e.preventDefault();
     toggleDarkMode();
   });
 
