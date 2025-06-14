@@ -104,9 +104,4 @@ $(document).ready(function(){
     $("body").addClass("dark-mode");
   }
 
-  $(".dark-mode-toggle").on("click", function (e) {
-    e.preventDefault();
-    toggleDarkMode();
-  });
-
 });
