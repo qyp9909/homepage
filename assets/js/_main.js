@@ -94,5 +94,23 @@ $(document).ready(function(){
     closeOnContentClick: true,
     midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
   });
+  // Dark Mode toggle
+  function applyDarkModeFromStorage() {
+    if (localStorage.getItem("dark-mode") === "true") {
+      $("body").addClass("dark-mode");
+    }
+  }
+
+  function toggleDarkMode() {
+    $("body").toggleClass("dark-mode");
+    localStorage.setItem("dark-mode", $("body").hasClass("dark-mode"));
+  }
+
+  applyDarkModeFromStorage();
+
+  // 监听按钮点击
+  $(".dark-mode-toggle").on("click", function () {
+    toggleDarkMode();
+  });
 
 });
