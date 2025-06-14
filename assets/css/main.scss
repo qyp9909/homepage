@@ -108,9 +108,9 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
-/* ========== 全局背景与文本颜色 ========== */
+/* ========== 🌙 Dark Mode 全局设置 ========== */
 body.dark-mode {
-  background-color: #121212 !important;
+  background-color: #1E1E1E !important;
   color: #e0e0e0 !important;
 }
 
@@ -122,9 +122,9 @@ body.dark-mode a:hover {
   color: #aad3ff !important;
 }
 
-/* ========== 顶部导航栏 ========== */
+/* 顶部导航栏（nav#site-nav） */
 body.dark-mode #site-nav {
-  background-color: #1f1f1f !important;
+  background-color: #1E1E1E !important;
   border-bottom: 1px solid #333 !important;
 }
 body.dark-mode #site-nav a {
@@ -134,51 +134,59 @@ body.dark-mode #site-nav a:hover {
   color: #ffffff !important;
 }
 
-/* ========== 左侧侧边栏 + 个人信息区 ========== */
+/* 顶部 masthead 区域 */
+body.dark-mode .masthead {
+  background-color: #1E1E1E !important;
+  border-bottom: 1px solid #333 !important;
+}
+body.dark-mode .masthead a,
+body.dark-mode .masthead span,
+body.dark-mode .masthead .site-title {
+  color: #dddddd !important;
+}
+
+/* 左侧 sidebar */
 body.dark-mode .sidebar,
 body.dark-mode .author__content,
 body.dark-mode .author__urls-wrapper {
-  background-color: #1a1a1a !important;
-  color: #cccccc !important;
+  background-color: #1E1E1E !important;
+  color: #ccc !important;
 }
 body.dark-mode .sidebar a {
   color: #90caf9 !important;
 }
 
-/* ========== 正文内容（你截图中的 page__content）========== */
+/* 正文内容、wrapper、卡片 */
 body.dark-mode .page__content,
-body.dark-mode .page {
-  background-color: #1e1e1e !important;
+body.dark-mode .page,
+body.dark-mode .wrapper,
+body.dark-mode .news__item,
+body.dark-mode .publication,
+body.dark-mode .highlight,
+body.dark-mode .card,
+body.dark-mode .archive__item,
+body.dark-mode .cv,
+body.dark-mode .cv__item {
+  background-color: #1E1E1E !important;
   color: #e0e0e0 !important;
+  border-color: #444 !important;
 }
 
-/* ========== 标题和小标题（防止过暗）========== */
+/* 标题文字更亮 */
 body.dark-mode h1,
 body.dark-mode h2,
 body.dark-mode h3 {
   color: #ffffff !important;
 }
 
-/* ========== 引用块 blockquote ========== */
+/* 引用块 blockquote */
 body.dark-mode blockquote {
-  background-color: #222 !important;
+  background-color: #2a2a2a !important;
   border-left: 4px solid #555;
-  color: #bbb;
+  color: #bbb !important;
 }
 
-/* ========== 新闻条目、publication 卡片 ========== */
-body.dark-mode .news__item,
-body.dark-mode .publication,
-body.dark-mode .highlight,
-body.dark-mode .card {
-  background-color: #2b2b2b !important;
-  border-color: #444 !important;
-  color: #ddd !important;
-}
-
-/* ========== 图片下的 caption ========== */
+/* 图片说明 */
 body.dark-mode figcaption {
-  color: #aaa;
+  color: #aaa !important;
 }
-
-
