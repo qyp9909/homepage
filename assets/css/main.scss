@@ -107,3 +107,20 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+body.dark-mode {
+  background-color: #121212;
+  color: #eeeeee;
+}
+
+body.dark-mode a {
+  color: #80c7ff;
+}
+
+body.dark-mode .site-nav {
+  background-color: #1e1e1e;
+}
+
+body.dark-mode .page__content {
+  background-color: #1c1c1c;
+}
