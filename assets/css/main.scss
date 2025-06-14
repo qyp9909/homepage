@@ -239,7 +239,9 @@ body.dark-mode .masthead {
 
 /* 如果你希望减少空隙，可以改为 10px，想拉大可用 30px 以上 */
 /* 单独调整 Homepage 和 About Me 之间的间隔 */
-li.masthead__menu-item:first-child {
-  padding-right: 40px !important; /* 默认是 20px，加大为 40px */
+/* 精准放大 Homepage 和 About Me 之间的间隔 */
+li.masthead__menu-item:first-child a {
+  margin-right: 40px !important; /* 可调成 40px、50px */
 }
+
 
