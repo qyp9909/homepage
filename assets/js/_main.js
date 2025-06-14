@@ -94,14 +94,6 @@ $(document).ready(function(){
     closeOnContentClick: true,
     midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
   });
-    // 🌙 深色模式逻辑
-  function toggleDarkMode() {
-    $("body").toggleClass("dark-mode");
-    localStorage.setItem("dark-mode", $("body").hasClass("dark-mode"));
-  }
 
-  if (localStorage.getItem("dark-mode") === "true") {
-    $("body").addClass("dark-mode");
-  }
 
 });
