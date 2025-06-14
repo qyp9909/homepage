@@ -192,3 +192,34 @@ body.dark-mode figcaption {
   color: #aaa !important;
 }
 
+
+
+/* 全站统一字体风格设置 */
+body {
+  font-family: "Segoe UI", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  font-size: 18px !important;
+  line-height: 1.75 !important;
+  letter-spacing: 0.1px;
+  word-break: break-word;
+}
+
+/* 标题字体稍大一些但不跳脱排版 */
+h1, h2, h3, h4, h5 {
+  font-family: "Segoe UI", "Noto Sans", sans-serif;
+  font-weight: 600;
+  line-height: 1.4;
+  margin-top: 1.5em;
+  margin-bottom: 0.6em;
+}
+
+h1 {
+  font-size: 28px;
+}
+h2 {
+  font-size: 24px;
+}
+h3 {
+  font-size: 20px;
+}
+
+
