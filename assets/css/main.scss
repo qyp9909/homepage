@@ -222,24 +222,10 @@ h3 {
   font-size: 20px;
 }
 
-/* 最小侵入式左-右导航排列 */
-ul.visible-links {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 0 1rem;
-  flex-wrap: wrap;
+.masthead {
+  border-bottom: 2px solid #ccc;
 }
-
-/* 第一个菜单项（Homepage）靠左，其余靠右 */
-ul.visible-links > li:first-child {
-  margin-right: auto;
+/* 深色模式：更粗 + 更亮 */
+body.dark-mode .masthead {
+  border-bottom: 2px solid #e0e0e0 !important; /* 粗亮白线 */
 }
-
-/* 其他菜单项 */
-ul.visible-links > li {
-  margin-left: 1rem;
-}
-
-
-
