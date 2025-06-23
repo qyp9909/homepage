@@ -8,21 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am conducting research in the field of **recommender systems**, specifically focusing on **generative recommendation models** and **sequential recommendation tasks**. If you are interested in any of my current or previous research and would like to collaborate or discuss further, please feel free to contact me at [qyp9909@gmail.com](mailto:qyp9909@gmail.com). You can find an overview of my work below.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am currently a third-year Ph.D. student in the [Doctoral Program in Intelligent and Mechanical Interaction Systems](https://www.imis.tsukuba.ac.jp/) at the Graduate School of Science and Technology, University of Tsukuba (筑波大学知能機能システム学位プログラム), under the supervision of Prof. [Hajime Nobuhara](https://researchmap.jp/read0102115?lang=en) (延原 肇). I also obtained my Master’s degree in the same program at the University of Tsukuba, where I began my research on recommender systems and deep learning. Before coming to Japan, I completed my undergraduate studies at Jilin University, earning a bachelor's degree in Computer Science from the [College of Computer Science and Technology](https://ccst.jlu.edu.cn/) (吉林大学计算机科学与技术学院). Now, I am a member of the Computational Intelligence and Multimedia Laboratory (計算知能・マルチメディア研究室). You can find more information on our lab homepage: [nobuharaken.com](https://nobuharaken.com/).
+
+My research interests include **recommender systems**, **explainable recommendations with NLG**, and **generative approaches for sequential recommendation**.
+
+### 🔥I am actively looking for positions as a Machine Learning Engineer (MLE), Data Scientist (DS), or Research Scientist (RS), where I can apply my expertise in recommender systems and machine learning!!!🔥
 
 
-# 🔥 News
+# 📢News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
