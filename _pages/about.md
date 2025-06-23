@@ -14,7 +14,7 @@ I am conducting research in the field of **recommender systems**, specifically f
 
 I am currently a third-year Ph.D. student in the [Doctoral Program in Intelligent and Mechanical Interaction Systems](https://www.imis.tsukuba.ac.jp/) at the Graduate School of Science and Technology, University of Tsukuba (筑波大学知能機能システム学位プログラム), under the supervision of Prof. [Hajime Nobuhara](https://researchmap.jp/read0102115?lang=en) (延原 肇). I also obtained my Master’s degree in the same program at the University of Tsukuba, where I began my research on recommender systems and deep learning. Before coming to Japan, I completed my undergraduate studies at Jilin University, earning a bachelor's degree in Computer Science from the [College of Computer Science and Technology](https://ccst.jlu.edu.cn/) (吉林大学计算机科学与技术学院). Now, I am a member of the Computational Intelligence and Multimedia Laboratory (計算知能・マルチメディア研究室). You can find more information on our lab homepage: [nobuharaken.com](https://nobuharaken.com/).
 
-My research interests include **recommender systems**, **explainable recommendations with NLG**, and **generative approaches for sequential recommendation**.
+My research interests include *recommender systems*, *explainable recommendations with NLG*, and *generative approaches for sequential recommendation*.
 
 ### 🔥I am actively looking for positions as a Machine Learning Engineer, Data Scientist, or Research Scientist, where I can apply my expertise in recommender systems and machine learning!!!🔥
 
