@@ -19,7 +19,7 @@ My research interests include *recommender systems*, *explainable recommendation
 ### 🔥I am actively looking for positions as a Machine Learning Engineer, Data Scientist, or Research Scientist, where I can apply my expertise in recommender systems and machine learning!!!🔥
 
 
-# 📢News
+# 📢 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
