@@ -28,7 +28,7 @@ My research interests include *recommender systems*, *explainable recommendation
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2025</div><img src='images/SIGIR2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Intent-aware Diffusion with Contrastive Learning for Sequential Recommendation](https://arxiv.org/abs/2504.16077) | <a href="https://github.com/qyp9909/InDiRec"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
+[Intent-aware Diffusion with Contrastive Learning for Sequential Recommendation](https://arxiv.org/abs/2504.16077) \| <a href="https://github.com/qyp9909/InDiRec"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
 
 **Yuanpeng QU**, Hajime NOBUHARA
 
@@ -50,7 +50,7 @@ My research interests include *recommender systems*, *explainable recommendation
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access (2024)</div><img src='images/Access2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Generating Explanations for Explanable Recommendations Using Filter-Enhanced Time-Series Information](https://ieeexplore.ieee.org/document/10545583) | <a href="https://github.com/qyp9909/TSIER-datasets"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
+[Generating Explanations for Explanable Recommendations Using Filter-Enhanced Time-Series Information](https://ieeexplore.ieee.org/document/10545583) \| <a href="https://github.com/qyp9909/TSIER-datasets"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
 
 **Yuanpeng QU**, Hajime NOBUHARA
 
