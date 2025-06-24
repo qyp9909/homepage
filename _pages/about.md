@@ -32,11 +32,20 @@ My research interests include *recommender systems*, *explainable recommendation
 
 **Yuanpeng QU**, Hajime NOBUHARA
 
-- Proposed InDiRec, a contrastive learning framework that combines intent clustering and conditional diffusion to generate semantically aligned augmented views for sequence embedding representation learning. 
+- Proposed InDiRec, a contrastive learning framework that combines intent clustering and conditional diffusion to generate semantically aligned augmented views for sequence representation learning. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICONIP 2024</div><img src='images/ICONIP2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Intent Representation Learning for Sequential Recommendation via Latent Guided Diffusion](https://iconip2024.org/)
+
+**Yuanpeng QU**, Hajime NOBUHARA
+
+- Proposed LGD4Rec, a generative framework that combines VAE-based latent space encoding and diffusion modeling, enabling efficient and controllable item sequence generation.
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
