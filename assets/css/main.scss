@@ -245,17 +245,21 @@ li.masthead__menu-item:first-child a {
 }
 
 .fancy-button {
-  display: inline-block;
-  padding: 14px 22px;  /* 上下左右的内边距更宽 */
-  background-color: #ddd;  /* 浅灰色背景 */
-  color: #333;  /* 深色文字 */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 16px 16px;  /* 原来是 12px 22px，比如改为 12px 14px 更窄 */
+  background-color: #ddd;
+  color: #333;
   font-weight: bold;
-  border-radius: 32px;  /* 更圆的按钮弧度 */
+  border-radius: 32px;
   text-align: center;
   text-decoration: none;
   transition: all 0.3s ease;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+  width: fit-content;        /* 按照内容宽度自适应 */
+  margin: 0 auto;
 }
+
 
 .fancy-button:hover {
   background-color: #bbb;  /* 鼠标悬停变成深一点的灰色 */
