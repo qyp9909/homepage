@@ -244,4 +244,21 @@ li.masthead__menu-item:first-child a {
   margin-right: 145px !important; /* 可调成 40px、50px */
 }
 
+.fancy-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #4A90E2;
+  color: #fff;
+  font-weight: bold;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.3s ease;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+.fancy-button:hover {
+  background-color: #357ABD;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.25);
+}
 
