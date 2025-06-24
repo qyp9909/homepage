@@ -16,7 +16,7 @@ I am currently a third-year Ph.D. student in the [Doctoral Program in Intelligen
 
 My research interests include *recommender systems*, *explainable recommendations with NLG*, and *generative approaches for sequential recommendation*.
 
-### 🔥I am actively looking for positions as a Machine Learning Engineer, Data Scientist, or Research Scientist, where I can apply my expertise in recommender systems and machine learning!!!🔥
+### 🔥I am actively looking for positions as a Machine Learning Engineer, Research Scientist, or Data Scientist, where I can apply my expertise in recommender systems and machine learning!!!🔥
 
 
 # 📢 News
