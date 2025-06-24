@@ -49,8 +49,8 @@
 }
 
 .page__content {
-  word-break: break-word;
-  overflow-wrap: break-word;
+  word-break: break-word !important;
+  overflow-wrap: break-word !important;
   #about-me{
     margin-top: -10em;
       &:before { 
