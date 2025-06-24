@@ -61,7 +61,7 @@ My research interests include *recommender systems*, *explainable recommendation
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SCIS&ISIS 2022</div><img src='images/SCIS_ISIS2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Generating Explanations for Explanable Recommendations Using Filter-Enhanced Time-Series Information](https://ieeexplore.ieee.org/document/10002066)
+[Explanation Generated for Sequential Recommendation based on Transformer model](https://ieeexplore.ieee.org/document/10002066)
 
 **Yuanpeng QU**, Hajime NOBUHARA
 
