@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/acad-homepage/#about-me"
+    url: "/homepage/#about-me"
 
   - title: "News"
-    url: "/acad-homepage/#-news"
+    url: "/homepage/#-news"
 
   - title: "Publications"
-    url: "/acad-homepage/#-publications"
+    url: "/homepage/#-publications"
 
   - title: "Honors and Awards"
-    url: "/acad-homepage/#-honors-and-awards"
+    url: "/homepage/#-honors-and-awards"
 
   - title: "Educations"
-    url: "/acad-homepage/#-educations"
+    url: "/homepage/#-educations"
 
   - title: "Invited Talks"
-    url: "/acad-homepage/#-invited-talks"
+    url: "/homepage/#-invited-talks"
 
   - title: "Internships"
-    url: "/acad-homepage/#-internships"
+    url: "/homepage/#-internships"
