@@ -259,6 +259,8 @@ li.masthead__menu-item:first-child a {
   text-decoration: none;
   transition: background-color 0.3s ease;
   box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  white-space: nowrap;
+  text-align: center;
 }
 
 .btn-resume:hover {
