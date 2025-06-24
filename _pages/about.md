@@ -54,7 +54,18 @@ My research interests include *recommender systems*, *explainable recommendation
 
 **Yuanpeng QU**, Hajime NOBUHARA
 
-- Proposed TSIER, a Transformer-based model with an FFT-based filter layer to denoise user histories and generate interpretable explanations for recommendations. 
+- Proposed TSIER, a Transformer-based model with an FFT-based filter layer to denoise user histories and generate interpretable explanations for sequential recommendations. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SCIS&ISIS 2022</div><img src='images/SCIS_ISIS2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Generating Explanations for Explanable Recommendations Using Filter-Enhanced Time-Series Information](https://ieeexplore.ieee.org/document/10002066)
+
+**Yuanpeng QU**, Hajime NOBUHARA
+
+- Proposed EG4SRec, a Transformer-based model with a modified attention layer to catch the representation of user histories and generate explanations for sequential recommendations. 
 </div>
 </div>
 
