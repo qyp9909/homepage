@@ -15,8 +15,5 @@ main:
   - title: "Educations"
     url: "/homepage/#-educations"
 
-  - title: "Invited Talks"
-    url: "/homepage/#-invited-talks"
-
-  - title: "Internships"
-    url: "/homepage/#-internships"
+  - title: "Projects"
+    url: "/homepage/#-projects"
