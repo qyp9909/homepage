@@ -84,9 +84,7 @@ My research interests include *recommender systems*, *explainable recommendation
 - *2021.04 - 2023.03*, Intelligent and Mechanical Interaction Systems, Graduate School of Science and Technology, University of Tsukuba. (Master of Engineering)「筑波大学大学院 システム情報工学研究群 知能機能システム学位プログラム 博士前期課程」
 - *2016.09 - 2020.07*, Computer Science and Technology, College of Computer Science and Technology, Jilin University. (Bachelor of Engineering)「吉林大学 计算机科学与技术学院 计算机科学与技术」
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Projects
+- *2023.01 - 2023.08*, Matrix Factorization-based Job Recommendation System. (Independent Project)
+- *2022.06 - 2023.03*, Smart Plant Pot R&D. (TOA Industry Co.,Ltd. R&D)
+- *2019.06 - 2020.10*, Full-Stack Development for Web-Based Systems. (Contest, Independent Project)
