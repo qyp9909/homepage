@@ -28,7 +28,7 @@ My research interests include *recommender systems*, *explainable recommendation
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2025</div><img src='images/SIGIR2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Intent-aware Diffusion with Contrastive Learning for Sequential Recommendation](https://arxiv.org/abs/2504.16077)
+[Intent-aware Diffusion with Contrastive Learning for Sequential Recommendation](https://arxiv.org/abs/2504.16077) <a href="https://github.com/qyp9909/InDiRec"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
 
 **Yuanpeng QU**, Hajime NOBUHARA
 
