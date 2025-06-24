@@ -246,19 +246,29 @@ li.masthead__menu-item:first-child a {
 
 .fancy-button {
   display: inline-block;
-  padding: 10px 20px;
+  padding: 10px 18px;
   background-color: #4A90E2;
   color: #fff;
   font-weight: bold;
-  border-radius: 8px;
+  border-radius: 10px;
   text-decoration: none;
-  transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.3s ease;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
 }
 
 .fancy-button:hover {
-  background-color: #357ABD;
+  background-color: #2d7cc2;
   transform: translateY(-2px);
-  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.25);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.25);
+}
+
+/* ✅ 深色模式下按钮变灰色，字体变白 */
+body.dark-mode .fancy-button {
+  background-color: #666;
+  color: #fff;
+}
+
+body.dark-mode .fancy-button:hover {
+  background-color: #888;
 }
 
