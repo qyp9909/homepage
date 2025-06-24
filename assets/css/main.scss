@@ -278,4 +278,14 @@ li.masthead__menu-item:first-child a {
 }
 
 
+.btn-text-full {
+  display: inline;
+}
+
+@media (max-width: 768px) {
+  .btn-text-full {
+    display: none;
+  }
+}
+
 
