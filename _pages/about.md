@@ -22,7 +22,7 @@ My research interests include *recommender systems*, *explainable recommendation
 # 📢 News
 - *2025.04*: &nbsp;🎉 A research paper has been accepted to SIGIR 2025 (Full Paper Track).
 - *2024.12*: &nbsp;🎉 A research paper has been accepted to ICONIP 2024 (Oral).
-- *2024.04*: &nbsp;🎉 A research paper has been accepted to IEEE Access.
+- *2024.04*: &nbsp;🎉 A journal paper has been accepted to IEEE Access.
 - *2023.04*: &nbsp; I was selected to participate in the JST SPRING (Next Generation Research Fellowship) program.
 
 # 📝 Publications 
