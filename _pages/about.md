@@ -77,10 +77,12 @@ My research interests include *recommender systems*, *explainable recommendation
 - *2020.07* Selected as an Outstanding Graduate of Jilin University.
 - *2020.01* Awarded First-Class Scholarship for three consecutive years, 2017– 2020.
 - *2020.01* Received the Outstanding Student Award for three consecutive years, 2017– 2020.
+- *2019.07* Received the Excellence Award in the Magang Cup National Undergraduate Logistics Competition.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.04 - 2026.03 (Expected)*, Doctoral Program in Intelligent and Mechanical Interaction Systems, Graduate School of Science and Technology, University of Tsukuba.「筑波大学大学院 システム情報工学研究群 知能機能システム学位プログラム 博士後期課程」
+- *2021.04 - 2023.03*, Master Program in Intelligent and Mechanical Interaction Systems, Graduate School of Science and Technology, University of Tsukuba. (Master of Engineering)「筑波大学大学院 システム情報工学研究群 知能機能システム学位プログラム 博士前期課程」
+- *2016.09 - 2020.07*, Computer Science and Technology, College of Computer Science and Technology, Jilin University. (Bachelor of Engineering)「吉林大学 计算机科学与技术学院 计算机科学与技术」
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
