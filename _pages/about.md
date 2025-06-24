@@ -72,7 +72,7 @@ My research interests include *recommender systems*, *explainable recommendation
 </div>
 
 # 🎖 Honors and Awards
-- *2023.04* Selected for the JST SPRING Program (Next-Gen Research Fellowship). 
+- *2023.04* Selected for the JST SPRING Program ([Next-Gen Research Fellowship](https://www.jst.go.jp/jisedai/spring/en/index.html)). 
 - *2022.11* Won the Best Student Presentation Award at the international conference SCIS&ISIS 2022.
 - *2020.07* Selected as an Outstanding Graduate of Jilin University.
 - *2020.01* Awarded First-Class Scholarship for three consecutive years, 2017– 2020.
