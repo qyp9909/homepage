@@ -72,8 +72,11 @@ My research interests include *recommender systems*, *explainable recommendation
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.04* Selected for the JST SPRING Program (Next-Gen Research Fellowship). 
+- *2022.11* Won the Best Student Presentation Award at the international conference SCIS&ISIS 2022.
+- *2020.07* Selected as an Outstanding Graduate of Jilin University.
+- *2020.01* Awarded First-Class Scholarship for three consecutive years, 2017– 2020.
+- *2020.01* Received the Outstanding Student Award for three consecutive years, 2017– 2020.
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
