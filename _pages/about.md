@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am conducting research in the field of **recommender systems**, specifically focusing on **generative recommendation models** and **sequential recommendation tasks**. If you are interested in any of my current or previous research and would like to collaborate or discuss further, please feel free to contact me at [qyp9909@gmail.com](mailto:qyp9909@gmail.com). You can find an overview of my work below.
+I am conducting research in the field of **recommender systems**, specifically focusing on **generative recommendation models** and **sequential recommendation tasks**. If you are interested in any of my current or previous research and would like to collaborate or discuss further, please feel free to contact me at [qu@cmu.iit.tsukuba.ac.jp](mailto:qu@cmu.iit.tsukuba.ac.jp). You can find an overview of my work below.
 
 I am currently a third-year Ph.D. student in the [Doctoral Program in Intelligent and Mechanical Interaction Systems](https://www.imis.tsukuba.ac.jp/) at the Graduate School of Science and Technology, University of Tsukuba (筑波大学知能機能システム学位プログラム), under the supervision of Prof. [Hajime Nobuhara](https://researchmap.jp/read0102115?lang=en) (延原 肇). I also obtained my Master’s degree in the same program at the University of Tsukuba, where I began my research on recommender systems and deep learning. Before coming to Japan, I completed my undergraduate studies at Jilin University, earning a bachelor's degree in Computer Science from the College of Computer Science and Technology. Now, I am a member of the Computational Intelligence and Multimedia Laboratory (計算知能・マルチメディア研究室). You can find more information on our lab homepage: [nobuharaken.com](https://nobuharaken.com/).
 
@@ -41,7 +41,7 @@ My research interests include *recommender systems*, *explainable recommendation
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICONIP 2024</div><img src='images/ICONIP2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Intent Representation Learning for Sequential Recommendation via Latent Guided Diffusion](https://iconip2024.org/)
+[Intent Representation Learning for Sequential Recommendation via Latent Guided Diffusion](https://link.springer.com/chapter/10.1007/978-981-96-6957-8_8)
 
 **Yuanpeng QU**, Hajime NOBUHARA
 
