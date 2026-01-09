@@ -85,6 +85,6 @@ My research interests include *recommender systems*, *explainable recommendation
 - *2016.09 - 2020.07*, Computer Science and Technology, College of Computer Science and Technology, Jilin University. (Bachelor of Engineering)「吉林大学 计算机科学与技术学院 计算机科学与技术」
 
 # 💻 Projects
-- *2023.01 - 2023.08*, Matrix Factorization-based Job Recommendation System. (Independent Project)
+- *2023.01 - 2023.08*, Matrix Factorization-based Job Recommendation System. (R&D)
 - *2022.06 - 2023.03*, Smart Plant Pot R&D. (TOA Industry Co.,Ltd. R&D)
 - *2019.06 - 2020.10*, Full-Stack Development for Web-Based Systems. (Contest, Independent Project)
