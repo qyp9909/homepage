@@ -74,9 +74,9 @@ My research interests include *recommender systems*, *explainable recommendation
 - *2023.04* Selected for the JST SPRING Program ([Next-Gen Research Fellowship](https://www.jst.go.jp/jisedai/spring/en/index.html)). 
 - *2022.11* Won the Best Student Presentation Award at the international conference SCIS&ISIS 2022.
 - *2020.07* Selected as an Outstanding Graduate.
-- *2020.01* Awarded First-Class Scholarship for three consecutive years, 2017– 2020.
-- *2020.01* Received the Outstanding Student Award for three consecutive years, 2017– 2020.
-- *2019.07* Received the Excellence Award in the Magang Cup National Undergraduate Logistics Competition.
+- *2020.01* Awarded First-Class Scholarship for three consecutive years, 2017 - 2020.
+- *2020.01* Received the Outstanding Student Award for three consecutive years, 2017 - 2020.
+- *2019.07* Received the Excellence Award in the 6th National Contest on Logistics Design by University Students.
 
 # 📖 Educations
 - *2023.04 - 2026.03*, Intelligent and Mechanical Interaction Systems, Graduate School of Science and Technology, University of Tsukuba. (Ph.D. in Engineering)「筑波大学大学院 システム情報工学研究群 知能機能システム学位プログラム 博士後期課程」
@@ -89,5 +89,5 @@ My research interests include *recommender systems*, *explainable recommendation
 - *2022.06 - 2023.03*, Smart Plant Pot R&D. (TOA Industry Co., Ltd. R&D)
 - *2019.06 - 2020.10*, Full-Stack Development for Web-Based Systems. (Contest, Independent Project)
 
-# 📝 Invited Reviewer
-- *Journals*: TKDE, TOIS, IP&M, KBS, PR
+# 💼 Academic Services
+- *Invited Journal Reviewer*: IEEE Transactions on Knowledge and Data Engineering (TKDE), ACM Transactions on Information Systems (TOIS), Pattern Recognition (PR), Information Processing & Management (IP&M),  Knowledge-Based Systems (KBS).
