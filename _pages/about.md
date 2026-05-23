@@ -79,7 +79,7 @@ My research interests include *recommender systems*, *explainable recommendation
 - *2019.07* Received the Excellence Award in the Magang Cup National Undergraduate Logistics Competition.
 
 # 📖 Educations
-- *2023.04 - 2026.03*, Doctoral Program in Intelligent and Mechanical Interaction Systems, Graduate School of Science and Technology, University of Tsukuba.「筑波大学大学院 システム情報工学研究群 知能機能システム学位プログラム 博士後期課程」
+- *2023.04 - 2026.03*, Doctoral Program in Intelligent and Mechanical Interaction Systems, Graduate School of Science and Technology, University of Tsukuba. (PhD in Engineering)「筑波大学大学院 システム情報工学研究群 知能機能システム学位プログラム 博士後期課程」
 - *2021.04 - 2023.03*, Intelligent and Mechanical Interaction Systems, Graduate School of Science and Technology, University of Tsukuba. (Master of Engineering)「筑波大学大学院 システム情報工学研究群 知能機能システム学位プログラム 博士前期課程」
 - *2016.09 - 2020.07*, Computer Science and Technology, College of Computer Science and Technology, Jilin University. (Bachelor of Engineering)「吉林大学 计算机科学与技术学院 计算机科学与技术」
 
