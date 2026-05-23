@@ -12,15 +12,13 @@ redirect_from:
 
 I am conducting research in the field of **recommender systems**, specifically focusing on **generative recommendation models** and **sequential recommendation tasks**. If you are interested in any of my current or previous research and would like to collaborate or discuss further, please feel free to contact me at [qu@cmu.iit.tsukuba.ac.jp](mailto:qu@cmu.iit.tsukuba.ac.jp). You can find an overview of my work below.
 
-I am currently a third-year Ph.D. student in the [Doctoral Program in Intelligent and Mechanical Interaction Systems](https://www.imis.tsukuba.ac.jp/) at the Graduate School of Science and Technology, University of Tsukuba (筑波大学知能機能システム学位プログラム), under the supervision of Prof. [Hajime Nobuhara](https://researchmap.jp/read0102115?lang=en) (延原 肇). I also obtained my Master’s degree in the same program at the University of Tsukuba, where I began my research on recommender systems and deep learning. Before coming to Japan, I completed my undergraduate studies at Jilin University, earning a bachelor's degree in Computer Science from the College of Computer Science and Technology. Now, I am a member of the Computational Intelligence and Multimedia Laboratory (計算知能・マルチメディア研究室). You can find more information on our lab homepage: [nobuharaken.com](https://nobuharaken.com/).
+I am currently a Postdoctoral Fellow (part-time) in the [Doctoral Program in Intelligent and Mechanical Interaction Systems](https://www.imis.tsukuba.ac.jp/) at the Graduate School of Science and Technology, University of Tsukuba (筑波大学知能機能システム学位プログラム), working with Prof. [Hajime Nobuhara](https://researchmap.jp/read0102115?lang=en) (延原 肇). I received my Ph.D. and Master’s degrees from the same program at the University of Tsukuba, where I began my research on recommender systems and deep learning. Before coming to Japan, I completed my undergraduate studies at Jilin University, earning a bachelor's degree in Computer Science from the College of Computer Science and Technology. I am also a member of the Computational Intelligence and Multimedia Laboratory (計算知能・マルチメディア研究室). You can find more information on our lab homepage: [nobuharaken.com](https://nobuharaken.com/).
 
 My research interests include *recommender systems*, *explainable recommendations with NLG*, and *generative approaches for sequential recommendation*.
 
-### 🔥I am actively looking for positions as a Machine Learning Engineer, Research Scientist, or Data Scientist, where I can apply my expertise in recommender systems and machine learning!!!🔥
-
 
 # 📢 News
-- *2026.01*: &nbsp;🎉 A research paper has been accepted to ICASSP 2026.
+- *2026.01*: &nbsp;🎉 A research paper has been accepted to ICASSP 2026 (Oral).
 - *2025.04*: &nbsp;🎉 A research paper has been accepted to SIGIR 2025 (Full Paper Track).
 - *2024.12*: &nbsp;🎉 A research paper has been accepted to ICONIP 2024 (Oral).
 - *2024.04*: &nbsp;🎉 A journal paper has been accepted to IEEE Access.
@@ -81,11 +79,15 @@ My research interests include *recommender systems*, *explainable recommendation
 - *2019.07* Received the Excellence Award in the Magang Cup National Undergraduate Logistics Competition.
 
 # 📖 Educations
-- *2023.04 - 2026.03 (Expected)*, Doctoral Program in Intelligent and Mechanical Interaction Systems, Graduate School of Science and Technology, University of Tsukuba.「筑波大学大学院 システム情報工学研究群 知能機能システム学位プログラム 博士後期課程」
+- *2023.04 - 2026.03*, Doctoral Program in Intelligent and Mechanical Interaction Systems, Graduate School of Science and Technology, University of Tsukuba.「筑波大学大学院 システム情報工学研究群 知能機能システム学位プログラム 博士後期課程」
 - *2021.04 - 2023.03*, Intelligent and Mechanical Interaction Systems, Graduate School of Science and Technology, University of Tsukuba. (Master of Engineering)「筑波大学大学院 システム情報工学研究群 知能機能システム学位プログラム 博士前期課程」
 - *2016.09 - 2020.07*, Computer Science and Technology, College of Computer Science and Technology, Jilin University. (Bachelor of Engineering)「吉林大学 计算机科学与技术学院 计算机科学与技术」
 
 # 💻 Projects
+- *2026.01 - 2026.03*, LLM-based Query Optimization for RAG Retrieval. (ExaWizards Inc., MLE Intern)
 - *2023.01 - 2023.08*, Matrix Factorization-based Job Recommendation System. (TOA Industry Co., Ltd. R&D)
 - *2022.06 - 2023.03*, Smart Plant Pot R&D. (TOA Industry Co., Ltd. R&D)
 - *2019.06 - 2020.10*, Full-Stack Development for Web-Based Systems. (Contest, Independent Project)
+
+# 📝 Invited Reviewer
+- *Journals*: TKDE, TOIS, IP&M, KBS, PR
