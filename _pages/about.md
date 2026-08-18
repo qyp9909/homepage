@@ -26,6 +26,17 @@ My research interests include *recommender systems*, *explainable recommendation
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/ICASSP2026.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Vector Quantized Intent Contrastive Learning for Sequential Recommendation](https://arxiv.org/abs/2504.16077) \| <a href="https://github.com/qyp9909/VQ-ICL"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
+
+**Yuanpeng QU**, Hajime NOBUHARA
+
+- Proposed VQ-ICL, a contrastive learning framework that combines vector quantization and intent-guided generation to learn a discrete, task-aware intent space and generate semantically aligned augmented views for sequence representation learning. 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2025</div><img src='images/SIGIR2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
